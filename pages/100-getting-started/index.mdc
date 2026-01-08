@@ -13,15 +13,15 @@ description: Подробнее о том, как начать играть на
 
 ## Айпи
 
-<InfoBox color="green" copiable>
-    mc.frogdream.xyz
-</InfoBox>
+::info-box{color="green" copiable}
+mc.frogdream.xyz
+::
 
 ## Альтернативный айпи
 
-<InfoBox color="green" copiable>
-    alt.frogdream.xyz
-</InfoBox>
+::info-box{color="green" copiable}
+alt.frogdream.xyz
+::
 
 ## Рекомендуем для комфортной игры
 
@@ -33,10 +33,8 @@ description: Подробнее о том, как начать играть на
 - [Chat Heads](https://modrinth.com/mod/chat-heads) - Отображает головы игроков в чате
 - [Sodium](https://modrinth.com/mod/sodium), [Entity Culling](https://modrinth.com/mod/entityculling) - Оптимизация
 
-<ButtonLink
-  href="/assets/getting-started/FrogSborka 1.0.0.mrpack"
-  text="Готовая сборка"
-/>
+::button-link{href="/assets/getting-started/FrogSborka 1.0.0.mrpack" text="Готовая сборка"}
+::
 
 ## Bedrock Edition
 
