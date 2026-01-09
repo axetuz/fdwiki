@@ -17,8 +17,11 @@ description: "Подробнее о фичах сервера: дисплеи, �
 
 Мы **настоятельно рекомендуем** скачать этот мод для полноценной игры.
 
-<ButtonLink href="https://modrinth.com/mod/frogdisplays" text="Скачать мод" />
-<ButtonLink href="/wiki/features/displays" text="Подробнее" />
+::button-link{href="https://modrinth.com/mod/frogdisplays" text="Скачать мод"}
+::
+
+::button-link{href="/wiki/features/displays" text="Подробнее"}
+::
 
 ## Мир ферм
 
